@@ -24,7 +24,7 @@ map.on('load', function () {
         source: 'yoga-area', // This connects the layer to my GeoJSON source
         paint: {
             'line-width': 4, // A thicker line makes it more visible
-            'line-color': '#FF0000' // I'm using red for the boundary to make it stand out
+            'line-color': '#MAROON' // I'm using red for the boundary to make it stand out
         }
     });
 
