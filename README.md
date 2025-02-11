@@ -1,7 +1,7 @@
 # YIWEN_XIE_Lab2
 # **Toronto Yoga Studio Map 🧘‍♀️**
 
-Welcome to the **Toronto Yoga Studios Map**! This project is an interactive web map that highlights **10 of the best yoga studios** in Toronto, all located within a defined boundary. The project leverages **Mapbox GL JS** for map rendering, custom GeoJSON data for spatial information, and responsive styling with CSS.
+Welcome to the **Toronto Yoga Studios Map**! This project is an interactive web map that highlights **10 of the best yoga studios** in Toronto, all located within a defined boundary. 
 
 ---
 
