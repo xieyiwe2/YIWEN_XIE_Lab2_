@@ -1,0 +1,1897 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-10T18:41:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/58586537",
+        "addr:housenumber": "994",
+        "addr:street": "Islington Avenue",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "building": "retail",
+        "building:colour": "grey",
+        "building:levels": "1",
+        "name": "Healthy Planet",
+        "shop": "health_food",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5183365,
+          43.6294004
+        ]
+      },
+      "id": "way/58586537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246574149",
+        "amenity": "drinking_water",
+        "flow": "push-button",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Drinking fountain, Via Leonina, Roma, Italia May 03, 2023 07-31-24 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4919399,
+          41.894806
+        ]
+      },
+      "id": "node/246574149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246574150",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-07",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Piazza dei Serpenti, Roma, Italia Oct 05, 2022 04-43-54 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4909457,
+          41.8948869
+        ]
+      },
+      "id": "node/246574150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246574151",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Drinking fountain Via degli Ibernesi, Roma, Italia Jul 08, 2023 05-22-02 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.487739,
+          41.8944984
+        ]
+      },
+      "id": "node/246574151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248743324",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "fountain": "roman_wolf",
+        "wikimedia_commons": "File:Roman wolf fountain, Torre dei Conti, Roma, Italia Oct 05, 2022 04-47-28 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4877431,
+          41.8935288
+        ]
+      },
+      "id": "node/248743324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251773348",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Drinking fountain, Belvedere Romolo e Remo, Circo Massimo, Roma, Italia Jun 16, 2023 11-48-14 AM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485289,
+          41.885391
+        ]
+      },
+      "id": "node/251773348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251773551",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "inscription": "Acqua Marcia",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Drinking fountain Campidoglio, Roma, Italia Jul 08, 2023 05-48-27 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4838554,
+          41.8933168
+        ]
+      },
+      "id": "node/251773551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251792639",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "tap": "no",
+        "wikimedia_commons": "File:Nasone via di San Teodoro, Roma, Italia Sep 08, 2021 06-03-56 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4836676,
+          41.8885804
+        ]
+      },
+      "id": "node/251792639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256572272",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4963709,
+          41.8947199
+        ]
+      },
+      "id": "node/256572272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310817",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4931113,
+          41.8926848
+        ]
+      },
+      "id": "node/266310817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266317282",
+        "amenity": "drinking_water",
+        "check_date": "2023-10-03",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4901658,
+          41.8932611
+        ]
+      },
+      "id": "node/266317282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270198478",
+        "amenity": "drinking_water",
+        "fountain": "roman_wolf",
+        "wikimedia_commons": "File:Roman wolf fountain, Parco del Celio, Roma, Italia Sep 01, 2020 12-32-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494358,
+          41.8855249
+        ]
+      },
+      "id": "node/270198478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270198480",
+        "amenity": "drinking_water",
+        "fountain": "roman_wolf",
+        "wikimedia_commons": "File:Roman wolf fountain, Celio, Roma, Italia Sep 01, 2020 12-03-35 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4932314,
+          41.8854777
+        ]
+      },
+      "id": "node/270198480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281352641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via botta, Roma, Italia Jun 30, 2022 06-23-28 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5003989,
+          41.8915913
+        ]
+      },
+      "id": "node/281352641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/384785143",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "name": "Healthy Planet",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2283853,
+          43.7600159
+        ]
+      },
+      "id": "node/384785143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387449952",
+        "addr:city": "Toronto",
+        "addr:housenumber": "646",
+        "addr:street": "Bloor Street West",
+        "name": "Magic Health Food",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.415269,
+          43.664367
+        ]
+      },
+      "id": "node/387449952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388983995",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4949446,
+          41.8869371
+        ]
+      },
+      "id": "node/388983995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2024-11-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water",
+        "check_date": "2023-04-30",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/992367889",
+        "addr:city": "Toronto",
+        "addr:housenumber": "689",
+        "addr:street": "Mount Pleasant Road",
+        "name": "Green Natural Health and Nutrition Centre",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3889895,
+          43.7059436
+        ]
+      },
+      "id": "node/992367889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1050423551",
+        "name": "The Health Shoppe",
+        "opening_hours:signed": "no",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3878633,
+          43.6681255
+        ]
+      },
+      "id": "node/1050423551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1126749686",
+        "brand": "Nutrition House",
+        "brand:wikidata": "Q112966431",
+        "name": "Nutrition House",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3858756,
+          43.6706957
+        ]
+      },
+      "id": "node/1126749686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1157932638",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4954695,
+          41.8867552
+        ]
+      },
+      "id": "node/1157932638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Drinking fountain, Piazza del Colosseo, Rome, Italy Oct 28, 2023 06-05-04 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1208814710",
+        "addr:city": "Toronto",
+        "addr:housenumber": "5177",
+        "addr:postcode": "M2N 5P5",
+        "addr:street": "Yonge Street",
+        "name": "Tavazo Dried Nuts & Fruits",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.412867,
+          43.7700729
+        ]
+      },
+      "id": "node/1208814710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1229816888",
+        "addr:city": "North York",
+        "addr:housenumber": "1800",
+        "addr:postcode": "M2J 5A7",
+        "addr:province": "ON",
+        "addr:street": "Sheppard Avenue East",
+        "brand": "Nutrition House",
+        "brand:wikidata": "Q112966431",
+        "indoor": "room",
+        "level": "1",
+        "name": "Nutrition House",
+        "opening_hours": "Mo-Sa 09:30-21:30; Su 10:00-20:00",
+        "shop": "health_food",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.344447,
+          43.7781868
+        ]
+      },
+      "id": "way/1229816888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1407542660",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Drinking fountain Via degli Zingari, Roma, Italia May 03, 2023 07-35-28 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4919485,
+          41.8952404
+        ]
+      },
+      "id": "node/1407542660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1550501688",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "hst_number": "851752766 RT0001",
+        "name": "Healthy Planet",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-21:00",
+        "shop": "health_food",
+        "store_ref": "0006",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3814184,
+          43.6571083
+        ]
+      },
+      "id": "node/1550501688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "building": "kiosk",
+        "carbonized": "yes",
+        "check_date": "2021-11-02",
+        "description:ru": "вода с газом и без. бесплатная",
+        "fee": "no",
+        "fountain": "bottle_refill",
+        "operator": "Acea",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Casetta dell’acqua, Colosseo, Rome, Italy Oct 28, 2023 06-12-35 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911643,
+          41.8913464
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2018949055",
+        "brand": "Nutrition House",
+        "brand:wikidata": "Q112966431",
+        "name": "Nutrition House",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4494587,
+          43.7251241
+        ]
+      },
+      "id": "node/2018949055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2840284301",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "check_date": "2023-07-21",
+        "name": "Healthy Planet",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2910916,
+          43.7247556
+        ]
+      },
+      "id": "node/2840284301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3098527533",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4841145,
+          41.8915162
+        ]
+      },
+      "id": "node/3098527533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786621294",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4927208,
+          41.8867114
+        ]
+      },
+      "id": "node/3786621294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5167443540",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "covered": "no",
+        "fee": "no",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4931902,
+          41.8955726
+        ]
+      },
+      "id": "node/5167443540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5314059440",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone piazza di San Gregorio, Roma, Italia Sep 01, 2020 11-51-42 AM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.490124,
+          41.8863528
+        ]
+      },
+      "id": "node/5314059440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732659653",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Drinking fountain, Piazza di San Pietro in Vincoli, Roma, Italia May 03, 2023 10-23-44 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4923174,
+          41.8936702
+        ]
+      },
+      "id": "node/5732659653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6280605307",
+        "amenity": "drinking_water",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4936946,
+          41.8939824
+        ]
+      },
+      "id": "node/6280605307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "access": "customers",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "check_date": "2024-01-04",
+        "fee": "no",
+        "man_made": "water_tap",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Drinking water tap, Colosseo, Roma, Italia Mar 11, 2023 03-29-29 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926424,
+          41.8906483
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7780730299",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "building": "water_dispenser",
+        "carbonized": "yes",
+        "chilled": "yes",
+        "drinking_water": "yes",
+        "fee": "no",
+        "man_made": "water_tap",
+        "operator": "ACEA",
+        "wikimedia_commons": "File:Casetta dell’acqua al Colosseo, Roma, Italia Mar 11, 2023 04-38-01 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4918731,
+          41.8894443
+        ]
+      },
+      "id": "node/7780730299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878433809",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4970398,
+          41.893108
+        ]
+      },
+      "id": "node/9878433809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983658444",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4836941,
+          41.8923945
+        ]
+      },
+      "id": "node/9983658444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11773723130",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Drinking water at the Museo della Forma Urbis, Rome, Italy Mar 30, 2024 01-12-54 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4910274,
+          41.8868843
+        ]
+      },
+      "id": "node/11773723130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11780059351",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.491031,
+          41.8868918
+        ]
+      },
+      "id": "node/11780059351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11812551762",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4947847,
+          41.8927804
+        ]
+      },
+      "id": "node/11812551762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11885861241",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4896798,
+          41.89035
+        ]
+      },
+      "id": "node/11885861241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12033088194",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4902836,
+          41.8901826
+        ]
+      },
+      "id": "node/12033088194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12033095972",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4892954,
+          41.8904503
+        ]
+      },
+      "id": "node/12033095972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12097935090",
+        "amenity": "drinking_water",
+        "bottle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870232,
+          41.8924751
+        ]
+      },
+      "id": "node/12097935090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455114193",
+        "name": "Qi",
+        "organic": "only",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4314997,
+          43.6995429
+        ]
+      },
+      "id": "node/4455114193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4621046053",
+        "addr:city": "Toronto",
+        "addr:housenumber": "224",
+        "addr:postcode": "M5T 2E7",
+        "addr:province": "Ontario",
+        "addr:street": "Spadina Avenue",
+        "name": "Great Mountain Ginseng",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.398654,
+          43.6536867
+        ]
+      },
+      "id": "node/4621046053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5184936116",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "name": "Healthy Planet",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4679952,
+          43.6726878
+        ]
+      },
+      "id": "node/5184936116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5335713721",
+        "addr:city": "Toronto",
+        "addr:housenumber": "513",
+        "addr:postcode": "M6C 1A1",
+        "addr:province": "Ontario",
+        "addr:street": "St. Clair Avenue West",
+        "check_date": "2024-08-26",
+        "name": "Evergreen Natural Foods",
+        "opening_hours": "Mo-Fr 09:30-21:00; Sa 09:30-19:00; Su 11:00-18:00",
+        "phone": "+1-416-536-2932",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4187602,
+          43.6828619
+        ]
+      },
+      "id": "node/5335713721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5508751922",
+        "addr:city": "Toronto",
+        "addr:housenumber": "161",
+        "addr:postcode": "M6R 2L3",
+        "addr:street": "Roncesvalles Avenue",
+        "check_date": "2024-09-09",
+        "name": "Evergreen Natural Foods",
+        "phone": "+1-416-534-2684",
+        "shop": "health_food",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.448015,
+          43.6441055
+        ]
+      },
+      "id": "node/5508751922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6172970148",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "name": "Healthy Planet",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5183796,
+          43.6301271
+        ]
+      },
+      "id": "node/6172970148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6309798877",
+        "addr:housenumber": "270",
+        "addr:street": "The Kingsway",
+        "brand": "Nutrition House",
+        "brand:wikidata": "Q112966431",
+        "level": "0",
+        "name": "Nutrition House",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5190286,
+          43.6611378
+        ]
+      },
+      "id": "node/6309798877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328179193",
+        "addr:city": "Toronto",
+        "addr:housenumber": "219",
+        "addr:street": "Roncesvalles Avenue",
+        "check_date": "2024-09-09",
+        "name": "Kim Natural Food",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4486833,
+          43.6458023
+        ]
+      },
+      "id": "node/6328179193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6334442191",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2239A",
+        "addr:street": "Bloor Street West",
+        "check_date": "2024-10-24",
+        "level": "0",
+        "name": "Peachtree Health Foods",
+        "opening_hours": "Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00",
+        "shop": "health_food",
+        "website": "https://peachtreehealthfoods.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4768807,
+          43.6508644
+        ]
+      },
+      "id": "node/6334442191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6341503775",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1276",
+        "addr:street": "Bloor Street West",
+        "name": "Easy Health Food Store",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4413682,
+          43.6587836
+        ]
+      },
+      "id": "node/6341503775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6352795880",
+        "name": "Qi Natural",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4119513,
+          43.6650802
+        ]
+      },
+      "id": "node/6352795880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6376145775",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2184",
+        "addr:street": "Bloor Street West",
+        "name": "Foods for Life",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "yes",
+        "phone": "+1-416-762-5590",
+        "shop": "health_food",
+        "website": "https://www.foodsforlifetoronto.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4748294,
+          43.6516625
+        ]
+      },
+      "id": "node/6376145775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6419992932",
+        "addr:housenumber": "556",
+        "addr:street": "Queen Street West",
+        "name": "Herbie's Herbs",
+        "phone": "+1-416-504-5755",
+        "shop": "health_food",
+        "website": "https://herbies-herbs.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.403138,
+          43.6474938
+        ]
+      },
+      "id": "node/6419992932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6483209297",
+        "name": "Wing Shing Herbs Store",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3975235,
+          43.6524413
+        ]
+      },
+      "id": "node/6483209297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6538631705",
+        "name": "Forever Living Products",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4972614,
+          43.7229249
+        ]
+      },
+      "id": "node/6538631705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6570353537",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "name": "Healthy Planet",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3131632,
+          43.7568408
+        ]
+      },
+      "id": "node/6570353537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6575077767",
+        "name": "B.K. Natural Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2992716,
+          43.7234883
+        ]
+      },
+      "id": "node/6575077767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6575151745",
+        "name": "Nature's Alternate",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2999538,
+          43.7261949
+        ]
+      },
+      "id": "node/6575151745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579133124",
+        "addr:housenumber": "1000",
+        "addr:street": "Gerrard Street East",
+        "level": "0",
+        "name": "Nature's Health Food",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3391341,
+          43.6694364
+        ]
+      },
+      "id": "node/6579133124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6586981343",
+        "name": "Shing Hing Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2695009,
+          43.8094679
+        ]
+      },
+      "id": "node/6586981343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6589762631",
+        "level": "0",
+        "name": "S&H Health Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2587479,
+          43.7762644
+        ]
+      },
+      "id": "node/6589762631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6589794514",
+        "brand": "Nutrition House",
+        "brand:wikidata": "Q112966431",
+        "level": "0",
+        "name": "Nutrition House",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2577265,
+          43.7763605
+        ]
+      },
+      "id": "node/6589794514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593325680",
+        "name": "The Herb House",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.217343,
+          43.7440429
+        ]
+      },
+      "id": "node/6593325680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6612458374",
+        "name": "TNS Health Store",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1532581,
+          43.7966586
+        ]
+      },
+      "id": "node/6612458374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6712372288",
+        "addr:city": "Toronto",
+        "brand": "Nutrition House",
+        "brand:wikidata": "Q112966431",
+        "check_date": "2024-09-04",
+        "level": "-2",
+        "name": "Nutrition House",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3809667,
+          43.6558679
+        ]
+      },
+      "id": "node/6712372288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936074792",
+        "level": "-1",
+        "name": "Naturally Yours",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3820927,
+          43.6485787
+        ]
+      },
+      "id": "node/6936074792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528844931",
+        "name": "Naturally Yours",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2890068,
+          43.6801809
+        ]
+      },
+      "id": "node/7528844931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7557065946",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "name": "Healthy Planet",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4391764,
+          43.7562076
+        ]
+      },
+      "id": "node/7557065946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7559765011",
+        "name": "Sunlong Natural Market",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4518988,
+          43.695162
+        ]
+      },
+      "id": "node/7559765011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7559788626",
+        "name": "Life Essential Health Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4526262,
+          43.6949982
+        ]
+      },
+      "id": "node/7559788626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7559813686",
+        "name": "SKG Health Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4676959,
+          43.6924377
+        ]
+      },
+      "id": "node/7559813686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7559883057",
+        "diet:gluten_free": "yes",
+        "name": "Goodbye Gluten",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4204088,
+          43.7363254
+        ]
+      },
+      "id": "node/7559883057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7581410346",
+        "name": "Rosedale General Store",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3901533,
+          43.6789345
+        ]
+      },
+      "id": "node/7581410346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7640168692",
+        "check_date": "2024-07-31",
+        "name": "Coco Market",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3899421,
+          43.6775685
+        ]
+      },
+      "id": "node/7640168692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856637980",
+        "name": "Essence of Life",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4005922,
+          43.6540214
+        ]
+      },
+      "id": "node/7856637980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7903300659",
+        "name": "Bayview Natural Food",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3756285,
+          43.7064311
+        ]
+      },
+      "id": "node/7903300659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9506358994",
+        "addr:city": "Toronto",
+        "addr:housenumber": "864",
+        "addr:postcode": "M4G2L1",
+        "addr:province": "Ontario",
+        "addr:street": "Eglinton Avenue East",
+        "name": "Gaia Natural Foods",
+        "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su 11:00-17:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1 647-347-4491",
+        "shop": "health_food",
+        "website": "https://www.gaianaturalfoods.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3653955,
+          43.7136165
+        ]
+      },
+      "id": "node/9506358994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11172097618",
+        "name": "Naturally Yours Health Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2888244,
+          43.680189
+        ]
+      },
+      "id": "node/11172097618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11174554594",
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "name": "Healthy Planet",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4118019,
+          43.6554601
+        ]
+      },
+      "id": "node/11174554594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11800704121",
+        "addr:housenumber": "16",
+        "addr:street": "Baldwin Street",
+        "name": "Baldwin Naturals Health Food Store",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3929521,
+          43.6562519
+        ]
+      },
+      "id": "node/11800704121"
+    }
+  ]
+}

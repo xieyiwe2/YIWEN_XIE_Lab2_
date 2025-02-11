@@ -1,0 +1,54 @@
+/* This container holds the map and ensures it takes up the full page */
+.map-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue; /* Debugging color, can be removed later */
+}
+
+/* Basic styling for the overall page */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* A clean, simple font choice */
+    background-color: #f4f4f4; /* Light gray background for a neutral look */
+}
+
+/* Styling for the fixed header at the top of the page */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10; /* Ensures the header stays above other elements */
+    background: #a80d7a; /* Magenta color for a vibrant header */
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Adds a soft shadow below the header */
+}
+
+/* Sidebar styling to display content on the left side of the page */
+aside {
+    position: absolute;
+    top: 60px; /* Positioned below the header */
+    left: 0;
+    width: 350px;
+    height: calc(100% - 60px); /* Occupies the remaining height below the header */
+    background: #fff;
+    border-right: 2px solid #ddd;
+    padding: 25px;
+    overflow-y: auto; /* Enables scrolling for overflowed content */
+}
+
+/* This container is for the map itself, placed to the right of the sidebar */
+#my-map {
+    position: absolute;
+    top: 60px; /* Starts below the header */
+    left: 400px; /* Adjusts to leave space for the sidebar */
+    right: 0;
+    bottom: 0; /* Stretches to the bottom of the page */
+}
+
