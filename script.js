@@ -27,3 +27,4 @@ map.on('load', function () {
             'line-color': 'maroon' // I'm using red for the boundary to make it stand out
         }
     });
+});
