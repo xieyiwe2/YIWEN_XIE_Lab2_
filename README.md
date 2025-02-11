@@ -20,5 +20,3 @@ This repository contains the following files and folders:
 ### **Contact 📬**
 If you have any questions or feedback about this project, feel free to reach out:  
 yiwen.xie@mail.utoronto.ca
-
----
